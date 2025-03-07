@@ -1,0 +1,1 @@
+Repository that contains files accessible to public.
